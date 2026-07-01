@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6k0037/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 根本說一切有部毘奈耶尼陀那目得迦攝頌
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T24/T24n1456.xml
+    old_id: T24n1456
+hash: sha256:7129e80f5831fa8f6cb186886fdcf3ddc668ba356f37d48ecaca9549adec82a5
