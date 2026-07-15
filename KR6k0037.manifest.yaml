@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6k0037/v1
 canonical_location: https://kanripo.org/bkk/KR6k0037/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 根本說一切有部毘奈耶尼陀那目得迦攝頌
   identifiers:
@@ -37,10 +37,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6k0037_000.yaml, hash: 'sha256:7129e80f5831fa8f6cb186886fdcf3ddc668ba356f37d48ecaca9549adec82a5'}
-  - {seq: 1, filename: KR6k0037_001.yaml, hash: 'sha256:3cf29401f9a1789064edc365d5444b8f67bd22be66a6127f693bd2be1cc554d9'}
+  - {seq: 1, filename: KR6k0037_001.yaml, hash: 'sha256:f2cf7f36f037718829a8d16892a5f50757574501caf2143d225961a277354cd6'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6k0037_000.markers.yaml, hash: 'sha256:3418fe3f1cc05fc66308869d32d9d4ba1957363da734446d9ca8ee7bf122e5f0'}
-  - {seq: 1, role: markers, filename: assets/KR6k0037_001.markers.yaml, hash: 'sha256:2c88f850e31b2a8484ad16b3ffbb8a6227e4812bc0b3b77fac7731cbe7b39cec'}
+  - {seq: 1, role: markers, filename: assets/KR6k0037_001.markers.yaml, hash: 'sha256:dc2a6af1bb0590996de66c4f8303fbeaa3dec5fcb3569f556fcfaeb4eec7ef16'}
 table_of_contents:
 - ref:
     seq: 1
@@ -54,4 +54,7 @@ table_of_contents:
     目得迦攝頌一卷'
   type: juan
   level: 1
-hash: sha256:8ccf7d750010ff745fef0debc9abc2df20a92a7296006bc393869056b1d9958f
+hash: sha256:9e2c9a7f6cd3b09ed1257e6a22725c4d09e47da4219ca20e86115c20f53a61ba
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
